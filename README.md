@@ -23,6 +23,18 @@
 
 ---
 
+## ตัวอย่างหน้าจอ (Screenshots)
+
+**เมนูภาษาไทยในเกม Empire Earth (Base Game):**
+
+![Empire Earth Thai Menu](https://raw.githubusercontent.com/millandmill/thai-translate-empire-earth/refs/heads/main/Empire%20Earth%20-%20Base/empire-earth-base-menu-thai.png)
+
+**เมนูภาษาไทยในเกม Empire Earth - The Art of Conquest:**
+
+![Empire Earth AoC Thai Menu](https://raw.githubusercontent.com/millandmill/thai-translate-empire-earth/refs/heads/main/Empire%20Earth%20-%20The%20Art%20of%20Conquest/empire-earth-the-art-of-conquest-menu-thai.png)
+
+---
+
 ## วิธีใช้งาน (How to Use)
 
 ### ภาษาไทย (Thai)
@@ -49,6 +61,18 @@ Please make sure you **download and use the correct file** for your version of t
 
 ---
 
+#### Screenshots
+
+**Empire Earth (Base Game) with Thai Menu:**
+
+![Empire Earth Thai Menu](https://raw.githubusercontent.com/millandmill/thai-translate-empire-earth/refs/heads/main/Empire%20Earth%20-%20Base/empire-earth-base-menu-thai.png)
+
+**Empire Earth - The Art of Conquest with Thai Menu:**
+
+![Empire Earth AoC Thai Menu](https://raw.githubusercontent.com/millandmill/thai-translate-empire-earth/refs/heads/main/Empire%20Earth%20-%20The%20Art%20of%20Conquest/empire-earth-the-art-of-conquest-menu-thai.png)
+
+---
+
 #### How to Use
 1. Download the **Language.dll** file that matches your game version:  
    - Empire Earth - Base  
@@ -60,7 +84,7 @@ Please make sure you **download and use the correct file** for your version of t
 
 ## Credits
 
-- แปลภาษาไทยโดย **ชัยกุล กาญจนะโภคิน**  
+- แปลภาษาไทยโดย **ชัยกุล กาญจนะโภคิน (Chaiyakul Kanjanapokin)**  
 - ขอบคุณเครื่องมือ **[RisohEditor 64-bit](https://github.com/katahiromz/RisohEditor)** ที่ใช้ในการแก้ไขและปรับแต่งไฟล์ **.dll**  
 
 ---
