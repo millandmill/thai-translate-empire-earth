@@ -17,6 +17,12 @@
 
 ---
 
+## ดาวน์โหลดไฟล์แปลภาษา (Download Translation Files)
+
+- [📥 ดาวน์โหลดไฟล์แปลภาษาไทย (Thai Translation Pack)](https://github.com/millandmill/thai-translate-empire-earth/releases/download/v1/Empire-Earth-thai-translate.zip)
+
+---
+
 ## วิธีใช้งาน (How to Use)
 
 ### ภาษาไทย (Thai)
@@ -38,9 +44,26 @@ Please make sure you **download and use the correct file** for your version of t
 
 ---
 
+#### Download Translation Files
+- [📥 Download Thai Translation Pack](https://github.com/millandmill/thai-translate-empire-earth/releases/download/v1/Empire-Earth-thai-translate.zip)
+
+---
+
 #### How to Use
 1. Download the **Language.dll** file that matches your game version:  
    - Empire Earth - Base  
    - Empire Earth - The Art of Conquest  
 
 2. Copy the **Language.dll** file into your game installation folder.  
+
+---
+
+## Credits
+
+- แปลภาษาไทยโดย **ชัยกุล กาญจนะโภคิน**  
+- ขอบคุณเครื่องมือ **[RisohEditor 64-bit](https://github.com/katahiromz/RisohEditor)** ที่ใช้ในการแก้ไขและปรับแต่งไฟล์ **.dll**  
+
+---
+
+- Thai translation by **Chaiyakul Kanjanapokin**  
+- Special thanks to **[RisohEditor 64-bit](https://github.com/katahiromz/RisohEditor)** for enabling the editing and modification of **.dll** files.  
